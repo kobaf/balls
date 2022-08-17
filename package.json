@@ -1,0 +1,24 @@
+{
+  "name": "balls",
+  "version": "1.0.0",
+  "description": "Enhanced MDN balls game",
+  "main": "index.html",
+  "scripts": {
+  	"start": "npm start lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobaf/balls.git"
+  },
+  "author": "Andrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobaf/balls/issues"
+  },
+  "homepage": "https://github.com/kobaf/balls#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
